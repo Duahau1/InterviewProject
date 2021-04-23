@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+.sell-info {
+  justify-content: center;
+}
+.current-page {
+  margin: 1rem;
+  border: solid black 1px;
+  padding: 0.5rem;
+}
+.bar-styling {
+  width: 20rem;
+  background: #f2f1f9;
+  border: none;
+  padding: 0.5rem;
+}
