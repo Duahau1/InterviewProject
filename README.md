@@ -1,3 +1,13 @@
+<h1>IPSecure Interview Project</h1>
+
+## Contributors
+
+[![](https://avatars1.githubusercontent.com/u/35185555?s=50)](https://github.com/Duahau1)
+
+## Demo
+
+Walkthrough video: https://www.loom.com/share/273ec061d5944511bff4c5024e16b424
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
